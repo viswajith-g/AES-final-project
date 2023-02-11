@@ -1,0 +1,9 @@
+.\block.o: block.c
+.\block.o: block.h
+.\block.o: os.h
+.\block.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\block.o: LCD.h
+.\block.o: os.h
+.\block.o: prand.h
+.\block.o: screens.h
+.\block.o: buzzer.h

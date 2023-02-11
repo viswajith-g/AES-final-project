@@ -1,0 +1,16 @@
+.\main.o: Main.c
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\main.o: OS.h
+.\main.o: tm4c123gh6pm.h
+.\main.o: LCD.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\main.o: UART.h
+.\main.o: FIFO.h
+.\main.o: joystick.h
+.\main.o: PORTE.h
+.\main.o: block.h
+.\main.o: os.h
+.\main.o: LED.h
+.\main.o: prand.h
+.\main.o: screens.h
+.\main.o: buzzer.h
